@@ -54,7 +54,3 @@ cd ~/.ssh
 ```sh
 ssh -i <private-key-file> <username>@<private-ip>
 ```
-Beta
-0 / 0
-used queries
-1
